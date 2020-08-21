@@ -1,4 +1,4 @@
-# 8/14/2020 FTC Dream Machines Meeting: Web Development
+# 8/14/2020 Robotics Meeting: Web Development
 HTML Tutorial
 - Curriculum: HTML Basics/Structure/syntax, basic tags, attributes, links, images, lists, tables, creating local/github webpages
 - Slides: https://docs.google.com/presentation/d/1TqhRJY35WH388M06G6ntBZC4yg8bBHl3t2r51qtMBQ0/edit?usp=sharing
